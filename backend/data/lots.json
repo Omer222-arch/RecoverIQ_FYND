@@ -1,0 +1,56 @@
+[
+  {
+    "lot_id": "L1",
+    "units": 5,
+    "inspection": "approved",
+    "refurbishment_inr": 100,
+    "handling_inr": 20,
+    "resale_price_inr": 750,
+    "scrap_recovery_inr": 80
+  },
+  {
+    "lot_id": "L2",
+    "units": 10,
+    "inspection": "approved",
+    "refurbishment_inr": 100,
+    "handling_inr": 20,
+    "resale_price_inr": 750,
+    "scrap_recovery_inr": 80
+  },
+  {
+    "lot_id": "L3",
+    "units": 15,
+    "inspection": "approved",
+    "refurbishment_inr": 100,
+    "handling_inr": 20,
+    "resale_price_inr": 750,
+    "scrap_recovery_inr": 80
+  },
+  {
+    "lot_id": "L4",
+    "units": 20,
+    "inspection": "approved",
+    "refurbishment_inr": 100,
+    "handling_inr": 20,
+    "resale_price_inr": 750,
+    "scrap_recovery_inr": 80
+  },
+  {
+    "lot_id": "L5",
+    "units": 25,
+    "inspection": "pending",
+    "refurbishment_inr": 100,
+    "handling_inr": 20,
+    "resale_price_inr": 750,
+    "scrap_recovery_inr": 80
+  },
+  {
+    "lot_id": "L6",
+    "units": 30,
+    "inspection": "approved",
+    "refurbishment_inr": 100,
+    "handling_inr": 20,
+    "resale_price_inr": 750,
+    "scrap_recovery_inr": 80
+  }
+]

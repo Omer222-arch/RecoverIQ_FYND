@@ -1,0 +1,18 @@
+[
+  {
+    "outcome_id": "OUT-3E57DFD822",
+    "proposal_id": "PROP-AF26AE51B5",
+    "lot_id": "L1",
+    "actual_recovery_inr": 580,
+    "recorded_at": "2026-10-17T13:23:31.917456+00:00",
+    "notes": null
+  },
+  {
+    "outcome_id": "OUT-3F796AE4F4",
+    "proposal_id": "PROP-AF26AE51B5",
+    "lot_id": "L1",
+    "actual_recovery_inr": 580.0,
+    "recorded_at": "2026-10-17T13:50:26.826733+00:00",
+    "notes": null
+  }
+]

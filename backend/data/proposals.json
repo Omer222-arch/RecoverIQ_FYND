@@ -1,0 +1,52 @@
+[
+  {
+    "proposal_id": "PROP-AF26AE51B5",
+    "lot_id": "L1",
+    "proposed_route": "refurbish",
+    "status": "draft",
+    "expected_recovery_inr": 630,
+    "created_at": "2026-10-17T13:22:40.150456+00:00",
+    "updated_at": "2026-10-17T13:22:40.150456+00:00",
+    "notes": null
+  },
+  {
+    "proposal_id": "PROP-F1ED9A0E6E",
+    "lot_id": "L1",
+    "proposed_route": "resale",
+    "status": "rejected",
+    "expected_recovery_inr": 630.0,
+    "created_at": "2026-10-17T15:21:09.675355+00:00",
+    "updated_at": "2026-10-17T19:36:02.599783+00:00",
+    "notes": "Testing backend lot validation"
+  },
+  {
+    "proposal_id": "PROP-6F39E8E6B9",
+    "lot_id": "L1",
+    "proposed_route": "resale",
+    "status": "pending_review",
+    "expected_recovery_inr": 630.0,
+    "created_at": "2026-10-17T15:21:21.822135+00:00",
+    "updated_at": "2026-10-17T19:42:46.663810+00:00",
+    "notes": "Testing backend lot validation"
+  },
+  {
+    "proposal_id": "PROP-8278DB619E",
+    "lot_id": "L2",
+    "proposed_route": "resale",
+    "status": "draft",
+    "expected_recovery_inr": 630.0,
+    "created_at": "2026-10-17T17:15:10.272853+00:00",
+    "updated_at": "2026-10-17T17:15:10.272853+00:00",
+    "notes": "Temporary proposal for deletion test"
+  },
+  {
+    "proposal_id": "PROP-5758C2F14C",
+    "lot_id": "L5",
+    "proposed_route": "resale",
+    "status": "draft",
+    "expected_recovery_inr": 16050.0,
+    "created_at": "2026-10-17T20:44:44.131758+00:00",
+    "updated_at": "2026-10-17T20:44:44.131758+00:00",
+    "notes": "good conditon lot"
+  }
+]
